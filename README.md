@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey everyone, Dmitri here 👋
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=dmitri-daranuta&theme=darkhub&column=-1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmitri-daranuta&show_icons=true&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitri-daranuta&count_private=true&theme=github_dark&show_icons=true&layout=compact">
+</p>
 
 <!--
 **dmitri-daranuta/dmitri-daranuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
