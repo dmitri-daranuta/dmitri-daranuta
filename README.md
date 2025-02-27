@@ -1,7 +1,7 @@
 ### Hey everyone, Dmitri here 👋
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=dmitri-daranuta&theme=darkhub&column=-1" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=dmitri-daranuta&theme=darkhub&column=-1&rank=-?" />
 </p>
 
 <p align="center">
