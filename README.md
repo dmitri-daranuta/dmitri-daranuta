@@ -2,6 +2,21 @@
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=dmitri-daranuta&theme=darkhub&column=-1&rank=-?" />
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dmitri-daranuta/dmitri-daranuta/refs/heads/main/dist/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dmitri-daranuta/dmitri-daranuta/refs/heads/main/dist/github-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/dmitri-daranuta/dmitri-daranuta/refs/heads/main/dist/github-snake.svg"
+    />
+  </picture>
 </p>
 
 <p align="center">
