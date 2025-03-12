@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
         
       - uses: Platane/snk/svg-only@v3
         with:
@@ -27,3 +29,5 @@ jobs:
           git add dist/
           git commit -m "Update snake game visualization"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
